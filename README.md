@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**AngelFloress/AngelFloress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola bueno este es mi perfil Mi nombre es Jose Angel Flores Gomez tengo 21 años mi pasatiempos son escuchar musica,me encanta la danza asi que otro podria ser bailar bachata y salsa me gusta salir a caminar y jugar videojuegos espero que este perfil te pueda ayudar y apoyar con los proximos trabajos 
+|             | Lunes                                  | Martes                                 | Miercoles                              | Jueves                                 | Viernes                                |
+|-------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+| 8:00-9:00   |                                        |                                        |                                        |                                        |                                        |
+| 9:00-10:00  |                                        |                                        |                                        |                                        |                                        |
+| 10:00-11:00 | Fundamentos de base de datos           | Fundamentos de base de datos           | Fundamentos de base de datos           | Fundamentos de base de datos           | Fundamentos de base de datos           |
+| 11:00-12:00 | Ecuaciones Diferenciales               | Ecuaciones Diferenciales               | Ecuaciones Diferenciales               | Ecuaciones Diferenciales               | Ecuaciones Diferenciales               |
+| 12:00-1:00  |                                        |                                        |                                        |                                        |                                        |
+| 1:00-2:00   |                                        |                                        |                                        |                                        |                                        |
+| 2:00-3:00   | Lenguaje de Interfaz                   | Lenguaje de Interfaz                   | Lenguaje de Interfaz                   | Lenguaje de Interfaz                   | Lenguaje de Interfaz                   |
+| 3:00-4:00   | Fundamentos de Ingenieria  de software | Fundamentos de Ingenieria  de software | Fundamentos de Ingenieria  de software | Fundamentos de Ingenieria  de software | Fundamentos de Ingenieria  de software |
+| 4:00-5:00   | Taller de Sistemas Operativos          | Taller de Sistemas Operativos          | Taller de Sistemas Operativos          | Taller de Sistemas Operativos          | Taller de Sistemas Operativos          |
+| 5:00-6:00   | Lenguajes y Automatas                  | Lenguajes y Automatas                  | Lenguajes y Automatas                  | Lenguajes y Automatas                  | Lenguajes y Automatas                  |
