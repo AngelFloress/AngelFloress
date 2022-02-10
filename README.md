@@ -1,4 +1,4 @@
-![moon](https://user-images.githubusercontent.com/89488077/153314867-57d2fecb-960c-46b3-86db-2bab046e1959.jpg)
+![360_F_106628594_ygQJizIxPLEDxunzOT4QvpTpr6R3XtlM](https://user-images.githubusercontent.com/89488077/153315033-dafabbea-6379-4681-afbe-6d4cfa40dfd1.jpg)
 # Hola bueno este es mi perfil Mi nombre es Jose Angel Flores Gomez tengo 21 años mi pasatiempos son escuchar musica,me encanta la danza asi que otro podria ser bailar bachata y salsa me gusta salir a caminar y jugar videojuegos espero que este perfil te pueda ayudar y apoyar con los proximos trabajos 
 |             | Lunes                                  | Martes                                 | Miercoles                              | Jueves                                 | Viernes                                |
 |-------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
